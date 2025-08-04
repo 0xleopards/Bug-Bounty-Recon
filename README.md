@@ -41,13 +41,13 @@ You also need the `linkfinder.py` script available in the same directory or in y
 2. Make it executable:
 
     ```bash
-    chmod +x ultimate_recon.sh
+    chmod +x 0xleopardsrecon.sh
     ```
 
 3. Run the script:
 
     ```bash
-    ./ultimate_recon.sh
+    ./0xleopardsrecon.sh
     ```
 
 4. Follow the interactive prompts.
